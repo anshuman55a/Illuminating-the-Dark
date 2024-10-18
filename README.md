@@ -20,7 +20,7 @@ field of image processing and computer vision through the successful implementat
 and evaluation of the Zero-DCE method
 
 ![image](https://github.com/anshuman55a/Illuminating-the-Dark/assets/99091710/b7a6b8ef-ef47-4046-91f1-dcabf68901c6)
-![image](https://github.com/anshuman55a/Illuminating-the-Dark/assets/99091710/c16c7aaa-0f10-453e-93b3-9b994b346589)
+
 ![image](https://github.com/anshuman55a/Illuminating-the-Dark/assets/99091710/f63a2d15-60e3-4f80-9aae-ebb4baae2ff3)
 
 
